@@ -1,0 +1,16 @@
+D:\Загрузка с браузера\Sea-Battle\Sea-Battle\bin\Debug\net8.0-windows7.0\Sea-Battle.exe
+D:\Загрузка с браузера\Sea-Battle\Sea-Battle\bin\Debug\net8.0-windows7.0\Sea-Battle.deps.json
+D:\Загрузка с браузера\Sea-Battle\Sea-Battle\bin\Debug\net8.0-windows7.0\Sea-Battle.runtimeconfig.json
+D:\Загрузка с браузера\Sea-Battle\Sea-Battle\bin\Debug\net8.0-windows7.0\Sea-Battle.dll
+D:\Загрузка с браузера\Sea-Battle\Sea-Battle\bin\Debug\net8.0-windows7.0\Sea-Battle.pdb
+D:\Загрузка с браузера\Sea-Battle\Sea-Battle\obj\Debug\net8.0-windows7.0\Sea_Battle.Form1.resources
+D:\Загрузка с браузера\Sea-Battle\Sea-Battle\obj\Debug\net8.0-windows7.0\Sea-Battle.csproj.GenerateResource.cache
+D:\Загрузка с браузера\Sea-Battle\Sea-Battle\obj\Debug\net8.0-windows7.0\Sea-Battle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Загрузка с браузера\Sea-Battle\Sea-Battle\obj\Debug\net8.0-windows7.0\Sea-Battle.AssemblyInfoInputs.cache
+D:\Загрузка с браузера\Sea-Battle\Sea-Battle\obj\Debug\net8.0-windows7.0\Sea-Battle.AssemblyInfo.cs
+D:\Загрузка с браузера\Sea-Battle\Sea-Battle\obj\Debug\net8.0-windows7.0\Sea-Battle.csproj.CoreCompileInputs.cache
+D:\Загрузка с браузера\Sea-Battle\Sea-Battle\obj\Debug\net8.0-windows7.0\Sea-Battle.dll
+D:\Загрузка с браузера\Sea-Battle\Sea-Battle\obj\Debug\net8.0-windows7.0\refint\Sea-Battle.dll
+D:\Загрузка с браузера\Sea-Battle\Sea-Battle\obj\Debug\net8.0-windows7.0\Sea-Battle.pdb
+D:\Загрузка с браузера\Sea-Battle\Sea-Battle\obj\Debug\net8.0-windows7.0\Sea-Battle.genruntimeconfig.cache
+D:\Загрузка с браузера\Sea-Battle\Sea-Battle\obj\Debug\net8.0-windows7.0\ref\Sea-Battle.dll
